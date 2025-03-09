@@ -1,1 +1,1 @@
-# Kidney-Disease_Classification-DeepLearning Project
+# Kidney-Disease-Classification-DeepLearning Project
