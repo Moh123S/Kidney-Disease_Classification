@@ -1,0 +1,417 @@
+{
+  "build": "py312h4389bb4_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "pip",
+    "python >=3.12,<3.13.0a0",
+    "python_abi 3.12.* *_cp312",
+    "ruamel.yaml",
+    "toml",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "D:\\Program Files\\Anaconda\\pkgs\\python-box-7.3.2-py312h4389bb4_0",
+  "files": [
+    "Lib/site-packages/box/__init__.py",
+    "Lib/site-packages/box/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/box/__pycache__/box.cpython-312.pyc",
+    "Lib/site-packages/box/__pycache__/box_list.cpython-312.pyc",
+    "Lib/site-packages/box/__pycache__/config_box.cpython-312.pyc",
+    "Lib/site-packages/box/__pycache__/converters.cpython-312.pyc",
+    "Lib/site-packages/box/__pycache__/exceptions.cpython-312.pyc",
+    "Lib/site-packages/box/__pycache__/from_file.cpython-312.pyc",
+    "Lib/site-packages/box/__pycache__/shorthand_box.cpython-312.pyc",
+    "Lib/site-packages/box/box.c",
+    "Lib/site-packages/box/box.cp312-win_amd64.pyd",
+    "Lib/site-packages/box/box.py",
+    "Lib/site-packages/box/box.pyi",
+    "Lib/site-packages/box/box_list.c",
+    "Lib/site-packages/box/box_list.cp312-win_amd64.pyd",
+    "Lib/site-packages/box/box_list.py",
+    "Lib/site-packages/box/box_list.pyi",
+    "Lib/site-packages/box/config_box.c",
+    "Lib/site-packages/box/config_box.cp312-win_amd64.pyd",
+    "Lib/site-packages/box/config_box.py",
+    "Lib/site-packages/box/config_box.pyi",
+    "Lib/site-packages/box/converters.c",
+    "Lib/site-packages/box/converters.cp312-win_amd64.pyd",
+    "Lib/site-packages/box/converters.py",
+    "Lib/site-packages/box/converters.pyi",
+    "Lib/site-packages/box/exceptions.c",
+    "Lib/site-packages/box/exceptions.cp312-win_amd64.pyd",
+    "Lib/site-packages/box/exceptions.py",
+    "Lib/site-packages/box/exceptions.pyi",
+    "Lib/site-packages/box/from_file.c",
+    "Lib/site-packages/box/from_file.cp312-win_amd64.pyd",
+    "Lib/site-packages/box/from_file.py",
+    "Lib/site-packages/box/from_file.pyi",
+    "Lib/site-packages/box/py.typed",
+    "Lib/site-packages/box/shorthand_box.c",
+    "Lib/site-packages/box/shorthand_box.cp312-win_amd64.pyd",
+    "Lib/site-packages/box/shorthand_box.py",
+    "Lib/site-packages/box/shorthand_box.pyi",
+    "Lib/site-packages/python_box-7.3.2.dist-info/AUTHORS.rst",
+    "Lib/site-packages/python_box-7.3.2.dist-info/INSTALLER",
+    "Lib/site-packages/python_box-7.3.2.dist-info/LICENSE",
+    "Lib/site-packages/python_box-7.3.2.dist-info/METADATA",
+    "Lib/site-packages/python_box-7.3.2.dist-info/RECORD",
+    "Lib/site-packages/python_box-7.3.2.dist-info/REQUESTED",
+    "Lib/site-packages/python_box-7.3.2.dist-info/WHEEL",
+    "Lib/site-packages/python_box-7.3.2.dist-info/direct_url.json",
+    "Lib/site-packages/python_box-7.3.2.dist-info/top_level.txt",
+    ".nonadmin"
+  ],
+  "fn": "python-box-7.3.2-py312h4389bb4_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "D:\\Program Files\\Anaconda\\pkgs\\python-box-7.3.2-py312h4389bb4_0",
+    "type": 1
+  },
+  "md5": "a35f73d5e64a5fe8c1611c23d3e8aeda",
+  "name": "python-box",
+  "package_tarball_full_path": "D:\\Program Files\\Anaconda\\pkgs\\python-box-7.3.2-py312h4389bb4_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/box/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "f13fe05f05fb1f1ecc374a51c81e98c146bd5050c993cd53a7cbf7e4583a5d08",
+        "sha256_in_prefix": "f13fe05f05fb1f1ecc374a51c81e98c146bd5050c993cd53a7cbf7e4583a5d08",
+        "size_in_bytes": 503
+      },
+      {
+        "_path": "Lib/site-packages/box/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "ea4212612a5d57139617dc8f70757025f56a02ee2eb777ba55b8242cf88cf2ef",
+        "sha256_in_prefix": "ea4212612a5d57139617dc8f70757025f56a02ee2eb777ba55b8242cf88cf2ef",
+        "size_in_bytes": 639
+      },
+      {
+        "_path": "Lib/site-packages/box/__pycache__/box.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "1d36d61d3cc06d45fe791064690a85390a8b0e11a27aac1a90771e4d35ea0fc5",
+        "sha256_in_prefix": "1d36d61d3cc06d45fe791064690a85390a8b0e11a27aac1a90771e4d35ea0fc5",
+        "size_in_bytes": 56717
+      },
+      {
+        "_path": "Lib/site-packages/box/__pycache__/box_list.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "190d44da5923babe40300e959e72947453bdefec3992a99d91ce7cb039515430",
+        "sha256_in_prefix": "190d44da5923babe40300e959e72947453bdefec3992a99d91ce7cb039515430",
+        "size_in_bytes": 22996
+      },
+      {
+        "_path": "Lib/site-packages/box/__pycache__/config_box.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "af821593c3585eea3d6de6d46768737e5ea8567c1053cf519b2cf9babdc5fe68",
+        "sha256_in_prefix": "af821593c3585eea3d6de6d46768737e5ea8567c1053cf519b2cf9babdc5fe68",
+        "size_in_bytes": 5645
+      },
+      {
+        "_path": "Lib/site-packages/box/__pycache__/converters.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "8de6bc9bfea9404809a105009a73bc9be52eb52c4fe8bbac60eeaf04a9d9d763",
+        "sha256_in_prefix": "8de6bc9bfea9404809a105009a73bc9be52eb52c4fe8bbac60eeaf04a9d9d763",
+        "size_in_bytes": 13790
+      },
+      {
+        "_path": "Lib/site-packages/box/__pycache__/exceptions.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "2533b06e3d697fad2cd2b9d181e2d44e6d8b7ddb0142d3521fdda9ed2a9d8449",
+        "sha256_in_prefix": "2533b06e3d697fad2cd2b9d181e2d44e6d8b7ddb0142d3521fdda9ed2a9d8449",
+        "size_in_bytes": 1157
+      },
+      {
+        "_path": "Lib/site-packages/box/__pycache__/from_file.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "c2eb13adf327c4104541b504fdc82ed2183ea7cab9aeea6f63697bfcb9028f87",
+        "sha256_in_prefix": "c2eb13adf327c4104541b504fdc82ed2183ea7cab9aeea6f63697bfcb9028f87",
+        "size_in_bytes": 6350
+      },
+      {
+        "_path": "Lib/site-packages/box/__pycache__/shorthand_box.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "100efb87eccf998693a7840dfed3f04227e57afb340e4c43caa7e97aa27c5fa4",
+        "sha256_in_prefix": "100efb87eccf998693a7840dfed3f04227e57afb340e4c43caa7e97aa27c5fa4",
+        "size_in_bytes": 2982
+      },
+      {
+        "_path": "Lib/site-packages/box/box.c",
+        "path_type": "hardlink",
+        "sha256": "226d6ec45a37d8dac078eda8d9c13ae4a2bcfe95e154c2c4b6c6ed9e38c2bcfb",
+        "sha256_in_prefix": "226d6ec45a37d8dac078eda8d9c13ae4a2bcfe95e154c2c4b6c6ed9e38c2bcfb",
+        "size_in_bytes": 2226147
+      },
+      {
+        "_path": "Lib/site-packages/box/box.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "9ea1c3ee60f382830dfc92c77ae28615ed504f445016a7faab16146b5ecc101a",
+        "sha256_in_prefix": "9ea1c3ee60f382830dfc92c77ae28615ed504f445016a7faab16146b5ecc101a",
+        "size_in_bytes": 434688
+      },
+      {
+        "_path": "Lib/site-packages/box/box.py",
+        "path_type": "hardlink",
+        "sha256": "263b5ba5879df4f5d41d027cf80119ef07dcb2e94b794ea3b3e4951ce16914b9",
+        "sha256_in_prefix": "263b5ba5879df4f5d41d027cf80119ef07dcb2e94b794ea3b3e4951ce16914b9",
+        "size_in_bytes": 47920
+      },
+      {
+        "_path": "Lib/site-packages/box/box.pyi",
+        "path_type": "hardlink",
+        "sha256": "6c9e2965a48aea408f8ae75c71b1571bd9bcbc634364cbd04956f9f4a892b260",
+        "sha256_in_prefix": "6c9e2965a48aea408f8ae75c71b1571bd9bcbc634364cbd04956f9f4a892b260",
+        "size_in_bytes": 4550
+      },
+      {
+        "_path": "Lib/site-packages/box/box_list.c",
+        "path_type": "hardlink",
+        "sha256": "7aabb1ac42603ad726df49e05d29e7a7f7b9b0042329b35c42377e73f5e5abc0",
+        "sha256_in_prefix": "7aabb1ac42603ad726df49e05d29e7a7f7b9b0042329b35c42377e73f5e5abc0",
+        "size_in_bytes": 1102961
+      },
+      {
+        "_path": "Lib/site-packages/box/box_list.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "238d883f8e7bf9841d927bfb3afb03aa2dc287ee37a925a3a478e6cd3b1fe335",
+        "sha256_in_prefix": "238d883f8e7bf9841d927bfb3afb03aa2dc287ee37a925a3a478e6cd3b1fe335",
+        "size_in_bytes": 205824
+      },
+      {
+        "_path": "Lib/site-packages/box/box_list.py",
+        "path_type": "hardlink",
+        "sha256": "2244e5fbcfa8c85c7ce373aeb8eb4fb8d367d1dc1e844b52ffddc51e223014c5",
+        "sha256_in_prefix": "2244e5fbcfa8c85c7ce373aeb8eb4fb8d367d1dc1e844b52ffddc51e223014c5",
+        "size_in_bytes": 17632
+      },
+      {
+        "_path": "Lib/site-packages/box/box_list.pyi",
+        "path_type": "hardlink",
+        "sha256": "c1aaf7a9a16b1ddd05aa74e5d58d1deac9ec7ce4ef25e193c3065b68da8fdc92",
+        "sha256_in_prefix": "c1aaf7a9a16b1ddd05aa74e5d58d1deac9ec7ce4ef25e193c3065b68da8fdc92",
+        "size_in_bytes": 2943
+      },
+      {
+        "_path": "Lib/site-packages/box/config_box.c",
+        "path_type": "hardlink",
+        "sha256": "877f586a9dc237e4b3ce0d7b365d9628da1f754e4ae976135fa51b09759ebde6",
+        "sha256_in_prefix": "877f586a9dc237e4b3ce0d7b365d9628da1f754e4ae976135fa51b09759ebde6",
+        "size_in_bytes": 490120
+      },
+      {
+        "_path": "Lib/site-packages/box/config_box.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "2af090fef466e7f4db9be7d8563142654272f8bcf4b66b83b97e957657a3d6b6",
+        "sha256_in_prefix": "2af090fef466e7f4db9be7d8563142654272f8bcf4b66b83b97e957657a3d6b6",
+        "size_in_bytes": 83456
+      },
+      {
+        "_path": "Lib/site-packages/box/config_box.py",
+        "path_type": "hardlink",
+        "sha256": "bb7ecf1028fefd3a110da1c914d541864f8de8bd886f183fd9bdb45d8247fc68",
+        "sha256_in_prefix": "bb7ecf1028fefd3a110da1c914d541864f8de8bd886f183fd9bdb45d8247fc68",
+        "size_in_bytes": 3874
+      },
+      {
+        "_path": "Lib/site-packages/box/config_box.pyi",
+        "path_type": "hardlink",
+        "sha256": "d1daccb09850386ff16df45d27ae172cd9184454952d7b5d9f12bfbe280ba275",
+        "sha256_in_prefix": "d1daccb09850386ff16df45d27ae172cd9184454952d7b5d9f12bfbe280ba275",
+        "size_in_bytes": 805
+      },
+      {
+        "_path": "Lib/site-packages/box/converters.c",
+        "path_type": "hardlink",
+        "sha256": "9482a9f09ad8e898fefaff9ef7fa30663df9414ff8ff5fe9c35d6717adc683f1",
+        "sha256_in_prefix": "9482a9f09ad8e898fefaff9ef7fa30663df9414ff8ff5fe9c35d6717adc683f1",
+        "size_in_bytes": 826544
+      },
+      {
+        "_path": "Lib/site-packages/box/converters.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "8e9152513e234e140c426d2fdf79de0233f834b581764d98fe67017991a1fc21",
+        "sha256_in_prefix": "8e9152513e234e140c426d2fdf79de0233f834b581764d98fe67017991a1fc21",
+        "size_in_bytes": 155136
+      },
+      {
+        "_path": "Lib/site-packages/box/converters.py",
+        "path_type": "hardlink",
+        "sha256": "88736d28de84849964c4f5502ba2cf9902a0a4f3414bd7f0918a580d03048622",
+        "sha256_in_prefix": "88736d28de84849964c4f5502ba2cf9902a0a4f3414bd7f0918a580d03048622",
+        "size_in_bytes": 11027
+      },
+      {
+        "_path": "Lib/site-packages/box/converters.pyi",
+        "path_type": "hardlink",
+        "sha256": "b19ecf192615f1a1651dc91076e462bb12dec983c0f9852743c59be1846aa208",
+        "sha256_in_prefix": "b19ecf192615f1a1651dc91076e462bb12dec983c0f9852743c59be1846aa208",
+        "size_in_bytes": 1880
+      },
+      {
+        "_path": "Lib/site-packages/box/exceptions.c",
+        "path_type": "hardlink",
+        "sha256": "49580bac61cb0948ea8c82d79ed4cc33f45f04e36279376f76906a49583e247f",
+        "sha256_in_prefix": "49580bac61cb0948ea8c82d79ed4cc33f45f04e36279376f76906a49583e247f",
+        "size_in_bytes": 203162
+      },
+      {
+        "_path": "Lib/site-packages/box/exceptions.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "0faf3805230d47e1b221e6836dac02a4512fd2fa77999b15ba2950528185f4bb",
+        "sha256_in_prefix": "0faf3805230d47e1b221e6836dac02a4512fd2fa77999b15ba2950528185f4bb",
+        "size_in_bytes": 27648
+      },
+      {
+        "_path": "Lib/site-packages/box/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "9c33a9af7e4fa0641669385b2ab849f5469b48801afdbe30dfd9a256f77c576e",
+        "sha256_in_prefix": "9c33a9af7e4fa0641669385b2ab849f5469b48801afdbe30dfd9a256f77c576e",
+        "size_in_bytes": 446
+      },
+      {
+        "_path": "Lib/site-packages/box/exceptions.pyi",
+        "path_type": "hardlink",
+        "sha256": "abc4e178cce7c4cb3328d93e794c708d7d0b1562e02a9d289510ddb8b233903b",
+        "sha256_in_prefix": "abc4e178cce7c4cb3328d93e794c708d7d0b1562e02a9d289510ddb8b233903b",
+        "size_in_bytes": 217
+      },
+      {
+        "_path": "Lib/site-packages/box/from_file.c",
+        "path_type": "hardlink",
+        "sha256": "64900898253fef1d01d9c6636ed10013d029829cbc3747630889ba994905c81a",
+        "sha256_in_prefix": "64900898253fef1d01d9c6636ed10013d029829cbc3747630889ba994905c81a",
+        "size_in_bytes": 508704
+      },
+      {
+        "_path": "Lib/site-packages/box/from_file.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "186af2b68a6f99dbf1c0be1ffa7c25a82eac6fe076ee296b18a6c7fe02e7264d",
+        "sha256_in_prefix": "186af2b68a6f99dbf1c0be1ffa7c25a82eac6fe076ee296b18a6c7fe02e7264d",
+        "size_in_bytes": 92672
+      },
+      {
+        "_path": "Lib/site-packages/box/from_file.py",
+        "path_type": "hardlink",
+        "sha256": "e00853a4f5b7cde1ce3911db3c293ebcef52530bf9bcb553d9e011168537ced0",
+        "sha256_in_prefix": "e00853a4f5b7cde1ce3911db3c293ebcef52530bf9bcb553d9e011168537ced0",
+        "size_in_bytes": 5016
+      },
+      {
+        "_path": "Lib/site-packages/box/from_file.pyi",
+        "path_type": "hardlink",
+        "sha256": "49b763f3421bcedaf9cdeb7bd54ff92388a96854a043a9b73faa8d13abdc511b",
+        "sha256_in_prefix": "49b763f3421bcedaf9cdeb7bd54ff92388a96854a043a9b73faa8d13abdc511b",
+        "size_in_bytes": 401
+      },
+      {
+        "_path": "Lib/site-packages/box/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/box/shorthand_box.c",
+        "path_type": "hardlink",
+        "sha256": "ae80811bf8297423340c968b16e5cc2cc6e0520c40489abdabe7608e0ac7483b",
+        "sha256_in_prefix": "ae80811bf8297423340c968b16e5cc2cc6e0520c40489abdabe7608e0ac7483b",
+        "size_in_bytes": 383616
+      },
+      {
+        "_path": "Lib/site-packages/box/shorthand_box.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "0f7a2003581e14d5d75435a18d443a284635573c37e0d5059bf52d259b07b438",
+        "sha256_in_prefix": "0f7a2003581e14d5d75435a18d443a284635573c37e0d5059bf52d259b07b438",
+        "size_in_bytes": 61952
+      },
+      {
+        "_path": "Lib/site-packages/box/shorthand_box.py",
+        "path_type": "hardlink",
+        "sha256": "1d2802474d1f38d7ef6439163767f4f623d60085a8ac0581fe8cc12c9d366bb9",
+        "sha256_in_prefix": "1d2802474d1f38d7ef6439163767f4f623d60085a8ac0581fe8cc12c9d366bb9",
+        "size_in_bytes": 1469
+      },
+      {
+        "_path": "Lib/site-packages/box/shorthand_box.pyi",
+        "path_type": "hardlink",
+        "sha256": "b3db83dc2a4b5819d0570fb7ff520dc76172614dbeb9d92cbc3e052d9c9e3bf5",
+        "sha256_in_prefix": "b3db83dc2a4b5819d0570fb7ff520dc76172614dbeb9d92cbc3e052d9c9e3bf5",
+        "size_in_bytes": 350
+      },
+      {
+        "_path": "Lib/site-packages/python_box-7.3.2.dist-info/AUTHORS.rst",
+        "path_type": "hardlink",
+        "sha256": "bd703f63347ecb2e6e9309ad393fc697856484f19365158dd75648953e41f89c",
+        "sha256_in_prefix": "bd703f63347ecb2e6e9309ad393fc697856484f19365158dd75648953e41f89c",
+        "size_in_bytes": 2404
+      },
+      {
+        "_path": "Lib/site-packages/python_box-7.3.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/python_box-7.3.2.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "f08f1cefc632f26fe8f46f7f3a05f91a8a9085bc2634a83a178efbe0332fb3c6",
+        "sha256_in_prefix": "f08f1cefc632f26fe8f46f7f3a05f91a8a9085bc2634a83a178efbe0332fb3c6",
+        "size_in_bytes": 1076
+      },
+      {
+        "_path": "Lib/site-packages/python_box-7.3.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "cfe4772563033ef0a870bc822a052bfff0f3abfba95a8af029e378ed197910a0",
+        "sha256_in_prefix": "cfe4772563033ef0a870bc822a052bfff0f3abfba95a8af029e378ed197910a0",
+        "size_in_bytes": 8262
+      },
+      {
+        "_path": "Lib/site-packages/python_box-7.3.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "6e4b007707f113899111754e7f7e16f677be1ef86812c0a042d025f632678d0b",
+        "sha256_in_prefix": "6e4b007707f113899111754e7f7e16f677be1ef86812c0a042d025f632678d0b",
+        "size_in_bytes": 3495
+      },
+      {
+        "_path": "Lib/site-packages/python_box-7.3.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/python_box-7.3.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "7119920460fe725f7c2a4b8730daaff4073d2fdfd5a93bdc058c2922fc4dd1c8",
+        "sha256_in_prefix": "7119920460fe725f7c2a4b8730daaff4073d2fdfd5a93bdc058c2922fc4dd1c8",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "Lib/site-packages/python_box-7.3.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "4fd55dcad5695fb66803713996f0b8a2c20f7e957b1eedeee5862c435d18cca9",
+        "sha256_in_prefix": "4fd55dcad5695fb66803713996f0b8a2c20f7e957b1eedeee5862c435d18cca9",
+        "size_in_bytes": 71
+      },
+      {
+        "_path": "Lib/site-packages/python_box-7.3.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "9d8f48dbb150f0403fe850ddeace30e2844a311d05e9bd232c7a0e99388773d1",
+        "sha256_in_prefix": "9d8f48dbb150f0403fe850ddeace30e2844a311d05e9bd232c7a0e99388773d1",
+        "size_in_bytes": 4
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "python-box",
+  "sha256": "6492a7f84fe6e6276727440628686e0a38788446deb80ae47283d262b9958640",
+  "size": 607016,
+  "subdir": "win-64",
+  "timestamp": 1737129500000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/python-box-7.3.2-py312h4389bb4_0.conda",
+  "version": "7.3.2"
+}

@@ -1,0 +1,12 @@
+prefix=d:/Projects/Kidney-Disease-Classification/venv1/Library
+exec_prefix=d:/Projects/Kidney-Disease-Classification/venv1/Library
+libdir=d:/Projects/Kidney-Disease-Classification/venv1/Library/lib
+includedir=d:/Projects/Kidney-Disease-Classification/venv1/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 
