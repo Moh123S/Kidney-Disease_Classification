@@ -16,3 +16,163 @@
 [2025-03-11 14:21:12,330: INFO: main: >>>>> stage Data Ingestion stage completed <<<<<<
 
 x========x]
+[2025-03-11 16:09:20,703: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:09:20,739: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:09:20,739: INFO: common: created directory at: artifacts]
+[2025-03-11 16:14:20,627: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:14:20,634: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:14:20,637: INFO: common: created directory at: artifacts]
+[2025-03-11 16:17:59,760: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:17:59,779: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:17:59,779: INFO: common: created directory at: artifacts]
+[2025-03-11 16:21:57,525: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:21:57,535: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:21:57,539: INFO: common: created directory at: artifacts]
+[2025-03-11 16:23:30,247: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:23:30,249: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:23:30,256: INFO: common: created directory at: artifacts]
+[2025-03-11 16:31:40,082: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:31:40,085: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:31:40,088: INFO: common: created directory at: artifacts]
+[2025-03-11 16:33:51,068: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:33:51,076: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:33:51,078: INFO: common: created directory at: artifacts]
+[2025-03-11 16:36:35,151: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:36:35,156: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:36:35,157: INFO: common: created directory at: artifacts]
+[2025-03-11 16:42:07,933: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:42:07,936: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:42:07,939: INFO: common: created directory at: artifacts]
+[2025-03-11 16:42:33,680: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:42:33,684: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:42:33,684: INFO: common: created directory at: artifacts]
+[2025-03-11 16:43:13,075: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:43:13,081: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:43:13,087: INFO: common: created directory at: artifacts]
+[2025-03-11 16:43:47,706: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:43:47,716: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:43:47,720: INFO: common: created directory at: artifacts]
+[2025-03-11 16:44:20,819: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:44:20,828: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:44:20,831: INFO: common: created directory at: artifacts]
+[2025-03-11 16:44:45,094: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:44:45,100: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:44:45,103: INFO: common: created directory at: artifacts]
+[2025-03-11 16:45:06,284: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:45:06,288: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:45:06,288: INFO: common: created directory at: artifacts]
+[2025-03-11 16:53:41,502: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:53:41,505: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:53:41,505: INFO: common: created directory at: artifacts]
+[2025-03-11 16:54:25,318: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:54:25,325: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:54:25,330: INFO: common: created directory at: artifacts]
+[2025-03-11 16:54:43,731: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:54:43,739: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:54:43,741: INFO: common: created directory at: artifacts]
+[2025-03-11 16:55:15,967: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:55:15,976: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:55:15,983: INFO: common: created directory at: artifacts]
+[2025-03-11 16:58:13,315: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:58:13,321: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:58:13,327: INFO: common: created directory at: artifacts]
+[2025-03-11 16:58:52,943: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 16:58:52,947: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 16:58:52,949: INFO: common: created directory at: artifacts]
+[2025-03-11 17:20:23,394: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 17:20:23,403: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 17:20:23,409: INFO: common: created directory at: artifacts]
+[2025-03-11 17:22:13,552: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 17:22:13,557: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 17:22:13,561: INFO: common: created directory at: artifacts]
+[2025-03-11 17:22:25,782: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 17:22:25,787: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 17:22:25,791: INFO: common: created directory at: artifacts]
+[2025-03-11 17:29:32,186: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 17:29:32,188: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 17:29:32,188: INFO: common: created directory at: artifacts]
+[2025-03-11 17:29:35,870: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 17:29:35,876: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 17:29:35,878: INFO: common: created directory at: artifacts]
+[2025-03-11 17:38:55,247: INFO: main: >>>>> stage Data Ingestion stage started <<<<<<]
+[2025-03-11 17:38:55,247: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 17:38:55,247: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 17:38:55,247: INFO: common: created directory at: artifacts]
+[2025-03-11 17:38:55,247: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-03-11 17:38:55,247: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1qzmoKpysVDv6AH12qfO05ShOSbH8OLJa/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-03-11 17:57:02,151: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1qzmoKpysVDv6AH12qfO05ShOSbH8OLJa/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-03-11 17:57:20,592: INFO: main: >>>>> stage Data Ingestion stage completed <<<<<<
+
+x========x]
+[2025-03-11 17:57:20,592: INFO: main: *************************]
+[2025-03-11 17:57:20,593: INFO: main: >>>>> stage Prepare base model started <<<<<<]
+[2025-03-11 17:57:20,597: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 17:57:20,600: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 17:57:20,601: INFO: common: created directory at: artifacts]
+[2025-03-11 17:57:20,603: ERROR: main: "'ConfigBox' object has no attribute 'prepare_base_model'"]
+Traceback (most recent call last):
+  File "box\\box.py", line 594, in box.box.Box.__getitem__
+KeyError: 'prepare_base_model'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 633, in box.box.Box.__getattr__
+  File "box\\box.py", line 621, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'prepare_base_model'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 635, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'prepare_base_model'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\config_box.py", line 29, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 649, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'prepare_base_model'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 594, in box.box.Box.__getitem__
+KeyError: 'prepare_base_model'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 633, in box.box.Box.__getattr__
+  File "box\\box.py", line 621, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'prepare_base_model'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 635, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'prepare_base_model'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Projects\Kidney-Disease-Classification\main.py", line 23, in <module>
+    prepare_base_model.main()
+  File "D:\Projects\Kidney-Disease-Classification\src\cnnClassifier\pipeline\stage_02_prepare_base_model.py", line 16, in main
+    prepare_base_model_config = config.get_prepare_base_model_config()
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Projects\Kidney-Disease-Classification\src\cnnClassifier\config\configuration.py", line 34, in get_prepare_base_model_config
+    config =self.config.prepare_base_model
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "box\\config_box.py", line 31, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 649, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'prepare_base_model'"
+[2025-03-11 18:12:29,838: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 18:12:29,857: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 18:12:29,862: INFO: common: created directory at: artifacts]
+[2025-03-11 18:12:43,574: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 18:12:43,578: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 18:12:43,580: INFO: common: created directory at: artifacts]
+[2025-03-11 18:12:51,326: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-11 18:12:51,329: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 18:12:51,333: INFO: common: created directory at: artifacts]
