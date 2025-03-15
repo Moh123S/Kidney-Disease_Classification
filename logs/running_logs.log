@@ -285,3 +285,6 @@ Traceback (most recent call last):
   File "box\\config_box.py", line 31, in box.config_box.ConfigBox.__getattr__
   File "box\\box.py", line 649, in box.box.Box.__getattr__
 box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'prepare_base_model'"
+[2025-03-14 17:33:19,144: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-14 17:33:19,181: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-14 17:33:19,184: INFO: common: created directory at: artifacts]
